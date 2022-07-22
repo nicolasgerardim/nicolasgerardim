@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [www.nicolasgerardi.com](www.nicolasgerardi.com)
 
-- 💬 About me **My years of experience in logistics and the commercial sector, accompanied by my degree in industrial engineering, have led me to develop a strong analytical profile with solid problem solving soft skills, both individually and as a team. However, over time I discovered that what really piqued my interest and motivates me to keep on developing as a professional, is problem solving through technological solutions.**
+- 💬 **About me:** My years of experience in logistics and the commercial sector, accompanied by my degree in industrial engineering, have led me to develop a strong analytical profile with solid problem solving soft skills, both individually and as a team. However, over time I discovered that what really piqued my interest and motivates me to keep on developing as a professional, is problem solving through technological solutions.
 
 - 📫 How to reach me **nicolasgerardim@gmail.com**
 
